@@ -34,7 +34,7 @@ Descargar o clonar este repositorio.
 
 Con git:
 
-git clone https://github.com/TU-USUARIO/actividad-semana-3-java-jvm.git
+git clone https://github.com/Mandu619/actividad-semana-3-java-jvm.git
 
 
 O descargar como .zip desde GitHub → Code → Download ZIP.
